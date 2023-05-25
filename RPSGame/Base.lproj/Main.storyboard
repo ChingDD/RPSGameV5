@@ -20,14 +20,6 @@
                                 <rect key="frame" x="-5" y="-7" width="748" height="429"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="小男孩" translatesAutoresizingMaskIntoConstraints="NO" id="bSp-b9-GIN">
-                                <rect key="frame" x="-326" y="0.0" width="326" height="422"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="小女孩" translatesAutoresizingMaskIntoConstraints="NO" id="NnA-zw-kXS">
-                                <rect key="frame" x="736" y="0.0" width="326" height="422"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bNG-sR-Af4">
                                 <rect key="frame" x="20" y="310" width="75" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -162,7 +154,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qd7-Va-jSO">
-                                <rect key="frame" x="293" y="310" width="134" height="47"/>
+                                <rect key="frame" x="292" y="311" width="134" height="47"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
@@ -200,15 +192,13 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-190.7608695652174" y="-100.00000000000001"/>
+            <point key="canvasLocation" x="-188" y="-119"/>
         </scene>
     </scenes>
     <resources>
         <image name="0" width="374" height="342"/>
         <image name="1" width="374" height="342"/>
         <image name="2" width="374" height="342"/>
-        <image name="小女孩" width="1018" height="1522"/>
-        <image name="小男孩" width="1018" height="1522"/>
         <image name="比賽背景圖" width="1920" height="900"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
